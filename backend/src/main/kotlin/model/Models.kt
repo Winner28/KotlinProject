@@ -1,3 +1,3 @@
 package model
 
-data class Person(val ID: Int, val name: String)
+data class User(val ID: Int, val name: String)
